@@ -1,0 +1,61 @@
+-----------------------------------------------------------------
+HBV-TEC-96. V.1.0. Summary of Activities.
+-----------------------------------------------------------------
+Instituto Tecnologico de Costa Rica. (www.tec.ac.cr)
+Maikel Mendez-M (mamendez@itcr.ac.cr);(maikel.mendez@gmail.com)
+Luis Alexander Calvo (lcalvo@itcr.ac.cr);(lualcava.sa@gmail.com)
+-----------------------------------------------------------------
+Cacthment Attributes
+CathmentArea [km2] =
+55.226
+fract_SMi [unitless] =
+0.05
+fract_SLZi [unitless] =
+0.94596316
+-----------------------------------------------------------------
+Mass-Balance [(mm/TimeStep)/TimePeriod]
+-----------------------------------------------------------------
+sumQOBS =
+1503.9055
+sumQSIM =
+1532.7943
+deltaQ = (if negative, QSIM overestimates QOBS)
+-28.8888
+sumPREC =
+2433.3289
+sumPET =
+936.141
+sumAET =
+655.8077
+-----------------------------------------------------------------
+Relative contribution fractions [unitless]
+-----------------------------------------------------------------
+fractSUZ =
+0.3808
+fractSLZ =
+0.6192
+fractUZL = (UZL threshold ONLY)
+0.1164
+-----------------------------------------------------------------
+MAXBAS relative weights/TimeStep for HBV [unitless]
+-----------------------------------------------------------------
+MAXBASabswei =
+1
+MAXBASabsweisum = (must be equal to 1)
+1
+-----------------------------------------------------------------
+Goodness of fit (objective functions)/TimePeriod for HBV
+-----------------------------------------------------------------
+Nash and Sutcliff efficiency criterion; NSeff [unitless] =
+0.8993
+Nash and Sutcliffe efficiency with logarithmic values; LNNSeff [unitless]=
+0.8993
+Percent Bias; expressed as percentage; PBIAS [%] =
+-1.9209
+Absolute Percent Bias; expressed as percentage; APB [%] =
+17.651
+Coefficient of determination squared; R2 [unitless]=
+0.9002
+-----------------------------------------------------------------
+End of program
+-----------------------------------------------------------------

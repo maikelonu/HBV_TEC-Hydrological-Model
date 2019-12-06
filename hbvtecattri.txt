@@ -1,0 +1,6 @@
+ATTRIBUTE	VALUE
+warea	55.226
+fract_SMi	 5.0000000E-02
+fract_SLZi	 9.4596316E-01
+time_resolution	1
+routing	1
