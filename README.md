@@ -1,10 +1,5 @@
 ![alt test](/hbv_tec.png)
-# HBV_TEC-Hydrological-Model
-Implementation of the SMHI-HBV-96 Hydrological Model on R
-
-///////////////////////////////////////////////////////////////////////////////////////////
- HBV-TEC-96 HYDROLOGICAL MODEL
-///////////////////////////////////////////////////////////////////////////////////////////
+# HBV-TEC-96 HYDROLOGICAL MODEL
 VERSION: 1.0.2016
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
 Maikel Mendez-M (mamendez@itcr.ac.cr);(maikel.mendez@gmail.com)
@@ -14,9 +9,7 @@ Input files: "hbvtecptq.txt", "hbvtecpar.txt", "hbvtecevap.txt", "hbvtecattri.tx
 Output files: "hbvtecptq_desc_hbv.csv", "hbvtecout_hbv.csv", "hbvtecout_desc_hbv.csv",
 "hbvqtecsim.csv", "hbvqteceff.csv"
 
-///////////////////////////////////////////////////////////////////////////////////////////
-
- REFERENCES:
+REFERENCES:
 
 M. Mendez, L. Calvo-Valverde, Development of the HBV-TEC Hydrological Model, Procedia Engineering, Volume 154, 2016, Pages 1116-1123, ISSN 1877-7058, https://doi.org/10.1016/j.proeng.2016.07.521.
 
@@ -31,5 +24,3 @@ Herman, J.D., Reed, P.M., Wagener, T. 2013. Time-varying sensitivity analysis cl
 Lindström, G., Johansson, B., Persson, M., Gardelin, M., Bergström, S. 1997. Development and test of the distributed HBV-96 hydrological model. J Hydrol 201: 272-288.
  
 Seibert, J. Vis, MJP. 2012. Teaching hydrological modeling with a user-friendly catchment-runoff-model software package. Hydrol Earth Syst Sci 16: 3315-3325.
-
-///////////////////////////////////////////////////////////////////////////////////////////
