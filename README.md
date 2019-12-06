@@ -1,4 +1,4 @@
-![alt test](/hbv_tec.png)
+![alt test](/hbv_tec2.png)
 # HBV-TEC-96 HYDROLOGICAL MODEL
 
 VERSION: 1.0.2016
