@@ -5,7 +5,9 @@ Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
 Maikel Mendez-M (mamendez@itcr.ac.cr);(maikel.mendez@gmail.com)
 This script is structured in R (www.r-project.org)
 General purpose: Implementation of the SMHI-HBV-96 Hydrological Model on R
+
 Input files: "hbvtecptq.txt", "hbvtecpar.txt", "hbvtecevap.txt", "hbvtecattri.txt" 
+
 Output files: "hbvtecptq_desc_hbv.csv", "hbvtecout_hbv.csv", "hbvtecout_desc_hbv.csv",
 "hbvqtecsim.csv", "hbvqteceff.csv"
 
