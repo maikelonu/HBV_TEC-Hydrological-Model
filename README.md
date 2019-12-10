@@ -1,6 +1,8 @@
 ![alt test](/hbv_tec2.png)
 # HBV-TEC-96 HYDROLOGICAL MODEL
 
+# https://doi.org/10.1016/j.proeng.2016.07.521
+
 VERSION: 1.0.2016
 
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
